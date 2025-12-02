@@ -1,0 +1,4 @@
+Có 2 cách text summarization:
+1. Sinh: so sánh câu sinh với lại golden summary theo chỉ định của bài báo
+Ví dụ: sinh 6 câu so điểm với 6 câu được cho là golden summary của bài báo
+2. Ranking: Sử dụng LLM để ranking
